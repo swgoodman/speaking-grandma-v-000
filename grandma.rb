@@ -1,4 +1,5 @@
 # Write a speak_to_grandma method.
+require 'pry'
 
 binding.pry
 def speak_to_grandma(phrase)
